@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Books
+# count down page
 
-> In this website you will add books and also watch the lists of books.
 
 ## Built With
 
@@ -10,20 +8,15 @@
 - CSS
 - JavaScript
 
-## Authors
+## see live ↗️
 
-👤 **Aamir Khan**
-
-- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
-- Twitter: [@SmartKhan2478](https://twitter.com/SmartKhan2478)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aamir-khan-302a44237/)
-
+click here [here](https://haadiiii.github.io/CountDown/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aamirkhan2478/awesome_book_js/issues).
+Feel free to check the [issues page]
 
 ## Show your support
 
