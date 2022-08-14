@@ -10,7 +10,7 @@
 
 ## see live ↗️
 
-click here [here](https://haadiiii.github.io/CountDown/)
+click [here](https://haadiiii.github.io/CountDown/)
 
 ## 🤝 Contributing
 
