@@ -13,10 +13,6 @@
 
 👤 **Aamir Khan**
 
-- GitHub: [@aamirkhan2478](https://github.com/aamirkhan2478)
-- Twitter: [@SmartKhan2478](https://twitter.com/SmartKhan2478)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aamir-khan-302a44237/)
-
 
 ## 🤝 Contributing
 
