@@ -1,7 +1,6 @@
 
-# Awesome Books
+# count down
 
-> In this website you will add books and also watch the lists of books.
 
 ## Built With
 
@@ -9,16 +8,15 @@
 - CSS
 - JavaScript
 
-## Authors
+## see live ↗️
 
-👤 **Aamir Khan**
-
+click here [here](https://haadiiii.github.io/CountDown/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aamirkhan2478/awesome_book_js/issues).
+Feel free to check the [issues page]
 
 ## Show your support
 
